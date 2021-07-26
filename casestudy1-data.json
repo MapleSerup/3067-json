@@ -1,13 +1,13 @@
 [
   {
-    PRODUCTNAME: "FOLGERS® BLACK SILK COFFEE 24.2 oz Can",
-    GRAPHICNAME: "",
+    "PRODUCTNAME": "FOLGERS® BLACK SILK COFFEE 24.2 oz Can",
+    "GRAPHICNAME": "",
     COSTPRICE: "20.99",
     MSRP: "25.00",
     QTYONHAND: "10",
     QTYONBACKORDER: "2",
-    PRODUCTDESC: "A select line of exceptional coffee blends carefully crafted by our experienced Roast Masters. Folgers® Black Silk delivers bold, smooth flavor that's distinctively dark and sure to satisfy. Discover the unique depths of Folgers Black Silk in every cup.",
-    BRAND: "FOLGERS"
+    "PRODUCTDESC": "A select line of exceptional coffee blends carefully crafted by our experienced Roast Masters. Folgers® Black Silk delivers bold, smooth flavor that's distinctively dark and sure to satisfy. Discover the unique depths of Folgers Black Silk in every cup.",
+    "BRAND": "FOLGERS"
   },
   PRODUCTNAME: "",
     GRAPHICNAME: "",
