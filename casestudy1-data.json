@@ -38,15 +38,5 @@
     "QTYONBACKORDER": "3",
     "PRODUCTDESC": "A select line of exceptional coffee blends carefully crafted by our experienced Roast Masters. Folgers® 100% Colombian delivers rich and lively flavor that’s crafted with care. Discover the delightful difference of Folgers in every cup",
     "BRAND": "FOLGERS"
-  },
-  {
-    "PRODUCTNAME": "",
-    "GRAPHICNAME": "",
-    "COSTPRICE": "",
-    "MSRP": "",
-    "QTYONHAND": "",
-    "QTYONBACKORDER": "",
-    "PRODUCTDESC": "",
-    "BRAND": "FOLGERS"
-  },
+  }
 ]
