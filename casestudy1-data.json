@@ -1,12 +1,52 @@
 [
   {
     "PRODUCTNAME": "FOLGERS® BLACK SILK COFFEE 24.2 oz Can",
-    "GRAPHICNAME": "",
+    "GRAPHICNAME": "folgers_black_silk.png",
     "COSTPRICE": "20.99",
     "MSRP": "25.00",
     "QTYONHAND": "10",
     "QTYONBACKORDER": "2",
     "PRODUCTDESC": "A select line of exceptional coffee blends carefully crafted by our experienced Roast Masters. Folgers® Black Silk delivers bold, smooth flavor that's distinctively dark and sure to satisfy. Discover the unique depths of Folgers Black Silk in every cup.",
     "BRAND": "FOLGERS"
-  }
+  },
+  {
+    "PRODUCTNAME": "FOLGERS® GOURMET SUPREME® COFFEE 24.2 oz Can",
+    "GRAPHICNAME": "folgers_supreme.png",
+    "COSTPRICE": "23.99",
+    "MSRP": "27.00",
+    "QTYONHAND": "5",
+    "QTYONBACKORDER": "4",
+    "PRODUCTDESC": "A select line of exceptional coffee blends carefully crafted by our experienced Roast Masters. Folgers® Gourmet Supreme®  ground coffee delivers robust and full-bodied flavor that’s crafted with care. Discover the unique depths of Folgers in every cup.",
+    "BRAND": "FOLGERS"
+  },
+  {
+    "PRODUCTNAME": "FOLGERS CLASSIC ROAST® COFFEE SINGLES",
+    "GRAPHICNAME": "folgers_singles.png",
+    "COSTPRICE": "12.99",
+    "MSRP": "14.00",
+    "QTYONHAND": "15",
+    "QTYONBACKORDER": "1",
+    "PRODUCTDESC": "Folgers Classic Roast® Coffee Singles make a fresh cup every time. Brew a cup of delicious coffee right in your own mug with these convenient single-serving coffee packets.",
+    "BRAND": "FOLGERS"
+  },
+  {
+    "PRODUCTNAME": "FOLGERS ® 100% COLOMBIAN COFFEE K-CUP® PODS",
+    "GRAPHICNAME": "folgers_kcup.png",
+    "COSTPRICE": "16.99",
+    "MSRP": "19.00",
+    "QTYONHAND": "10",
+    "QTYONBACKORDER": "3",
+    "PRODUCTDESC": "A select line of exceptional coffee blends carefully crafted by our experienced Roast Masters. Folgers® 100% Colombian delivers rich and lively flavor that’s crafted with care. Discover the delightful difference of Folgers in every cup",
+    "BRAND": "FOLGERS"
+  },
+  {
+    "PRODUCTNAME": "",
+    "GRAPHICNAME": "",
+    "COSTPRICE": "",
+    "MSRP": "",
+    "QTYONHAND": "",
+    "QTYONBACKORDER": "",
+    "PRODUCTDESC": "",
+    "BRAND": "FOLGERS"
+  },
 ]
