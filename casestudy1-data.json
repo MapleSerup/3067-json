@@ -38,5 +38,116 @@
     "QTYONHAND": "10",
     "QTYONBACKORDER": "3",
     "PRODUCTDESC": "A select line of exceptional coffee blends carefully crafted by our experienced Roast Masters. Folgers® 100% Colombian delivers rich and lively flavor that’s crafted with care. Discover the delightful difference of Folgers in every cup"
+  },
+  {
+    "BRAND": "FOLGERS",
+    "PRODUCTNAME": "FOLGERS® BLACK SILK DECAF COFFEE 24.2 oz Can",
+    "GRAPHICNAME": "folgers_black_silk_decaf.png",
+    "COSTPRICE": "20.99",
+    "MSRP": "25.00",
+    "QTYONHAND": "10",
+    "QTYONBACKORDER": "0",
+    "PRODUCTDESC": "A select line of exceptional coffee blends carefully crafted by our experienced Roast Masters. Folgers® Black Silk Decaf delivers a bold, smooth flavor that's distinctively dark and sure to satisfy. Discover the unique depths of Folgers Black Silk Decaf in every cup."
+  },
+  {
+    "BRAND": "Ethical Bean Coffee",
+    "PRODUCTNAME": "Superdark",
+    "GRAPHICNAME": "ethical_superdark.jpg",
+    "COSTPRICE": "12.99",
+    "MSRP": "14.00",
+    "QTYONHAND": "15",
+    "QTYONBACKORDER": "0",
+    "PRODUCTDESC": "The lovechild of dark alchemy and complete combustion. A hammering dark roast, blended to display body, balance and a dazzling dark cocoa-laced finish."
+  },
+  {
+    "BRAND": "Ethical Bean Coffee",
+    "PRODUCTNAME": "Lush",
+    "GRAPHICNAME": "ethical_lush.jpg",
+    "COSTPRICE": "12.99",
+    "MSRP": "15.00",
+    "QTYONHAND": "15",
+    "QTYONBACKORDER": "2",
+    "PRODUCTDESC": "Any richer, and you'd ask it for a loan. A heavy cup with Burgundian fullness, alive with fruit, smoke and earthy notes."
+  },
+  {
+    "BRAND": "Ethical Bean Coffee",
+    "PRODUCTNAME": "Decaf",
+    "GRAPHICNAME": "ethical_decaf.jpg",
+    "COSTPRICE": "8.99",
+    "MSRP": "10.00",
+    "QTYONHAND": "10",
+    "QTYONBACKORDER": "0",
+    "PRODUCTDESC": "A very undecaf decaf. Gobs of body, intriguing chocolate character. Gobs of body, intriguing chocolate character. Dynamite as drip, scintillating as espresso."
+  },
+  {
+    "BRAND": "Ethical Bean Coffee",
+    "PRODUCTNAME": "Classic",
+    "GRAPHICNAME": "ethical_classic.jpg",
+    "COSTPRICE": "12.99",
+    "MSRP": "14.00",
+    "QTYONHAND": "14",
+    "QTYONBACKORDER": "3",
+    "PRODUCTDESC": "A coffee insider’s favourite. Elegant acidity highlights a nuanced, medium-bodied cup."
+  },
+  {
+    "BRAND": "Ethical Bean Coffee",
+    "PRODUCTNAME": "Mellow",
+    "GRAPHICNAME": "ethical_mellow.jpg",
+    "COSTPRICE": "12.99",
+    "MSRP": "15.00",
+    "QTYONHAND": "12",
+    "QTYONBACKORDER": "3",
+    "PRODUCTDESC": "Medium body, nutty aroma and a sweet brightness. Ommm. Serenity now. Medium body, nutty aroma and a sweet brightness. Stirring memories of hazelnuts and caramelized sugar.
+"
+  },
+  {
+    "BRAND": "Kicking Horse Coffee",
+    "PRODUCTNAME": "Lucky Jim",
+    "GRAPHICNAME": "kicking_lucky_jim.png",
+    "COSTPRICE": "11.99",
+    "MSRP": "14.00",
+    "QTYONHAND": "15",
+    "QTYONBACKORDER": "3",
+    "PRODUCTDESC": "Lucky bucker! Legend says Jim took a swift dose of horse-hoof to the head. Thought dead, a kick-ass coffee woke him up! Our lucky stars were the ones he saw."
+  },
+  {
+    "BRAND": "Kicking Horse Coffee",
+    "PRODUCTNAME": "Cliff Hanger Espresso",
+    "GRAPHICNAME": "kicking_cliff_espresso.png",
+    "COSTPRICE": "29.99",
+    "MSRP": "33.00",
+    "QTYONHAND": "12",
+    "QTYONBACKORDER": "7",
+    "PRODUCTDESC": "Get a grip on this chocolaty, smooth blend. There’s cocoa tones and a bold happy ending. Don’t hang in suspense, this blend reads like a manifesto of delicious coffee."
+  },
+  {
+    "BRAND": "Kicking Horse Coffee",
+    "PRODUCTNAME": "454 Horse Power",
+    "GRAPHICNAME": "kicking_454_power.png",
+    "COSTPRICE": "11.99",
+    "MSRP": "13.00",
+    "QTYONHAND": "10",
+    "QTYONBACKORDER": "3",
+    "PRODUCTDESC": "This smooth riding dark horse conjures up power from the depths of the shadows. This is the winner, the champion of taste. The one that goes the extra mile. Hop on, hold on, and head for the hills."
+  },
+  {
+    "BRAND": "Kicking Horse Coffee",
+    "PRODUCTNAME": "Grizzly Claw",
+    "GRAPHICNAME": "kicking_grizzly.jfif",
+    "COSTPRICE": "11.99",
+    "MSRP": "14.00",
+    "QTYONHAND": "10",
+    "QTYONBACKORDER": "4",
+    "PRODUCTDESC": "From the heart of the mountains, a strong spirit roars. This is the most magical hand mother nature can deal, and it’s headed for a mug near you."
+  },
+  {
+    "BRAND": "Kicking Horse Coffee",
+    "PRODUCTNAME": "Three Sisters",
+    "GRAPHICNAME": "kicking_sisters.jfif",
+    "COSTPRICE": "11.99",
+    "MSRP": "14.00",
+    "QTYONHAND": "10",
+    "QTYONBACKORDER": "1",
+    "PRODUCTDESC": "The Three Sisters are a trio of towering Canadian Rocky Mountains. We pay homage to these powerful peaks with a triple punch of light, medium and dark roasts. Great taste hits new heights!"
   }
 ]
